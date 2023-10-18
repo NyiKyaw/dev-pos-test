@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 123,
+            "name": "Orange",
+            "price": "2",
+            "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_1280.jpg"
+        },
+        {
+            "id": 131,
+            "name": "Milk",
+            "price": "3",
+            "image": "https://cdn.pixabay.com/photo/2018/03/16/16/42/milk-3231772_1280.jpg"
+        },
+        {
+            "id": 133,
+            "name": "Icd Cream",
+            "price": "4",
+            "image": "https://cdn.pixabay.com/photo/2016/01/11/07/18/cupcakes-1133146_1280.jpg"
+        },
+        {
+            "id": 135,
+            "name": "Salmon",
+            "price": "10",
+            "image": "https://cdn.pixabay.com/photo/2016/03/05/20/07/abstract-1238664_1280.jpg"
+        },
+        {
+            "id": 137,
+            "name": "Watermelon",
+            "price": "2",
+            "image": "https://cdn.pixabay.com/photo/2018/08/04/23/43/watermelon-3584717_1280.jpg"
+        },
+        {
+            "id": 138,
+            "name": "Potato",
+            "price": "4",
+            "image": "https://cdn.pixabay.com/photo/2012/12/24/08/39/agriculture-72254_1280.jpg"
+        }
+    ]
+}
