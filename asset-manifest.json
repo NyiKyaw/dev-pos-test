@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dev-pos-test/static/css/main.7d776236.css",
+    "main.js": "/dev-pos-test/static/js/main.4311e924.js",
+    "index.html": "/dev-pos-test/index.html",
+    "main.7d776236.css.map": "/dev-pos-test/static/css/main.7d776236.css.map",
+    "main.4311e924.js.map": "/dev-pos-test/static/js/main.4311e924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d776236.css",
+    "static/js/main.4311e924.js"
+  ]
+}
