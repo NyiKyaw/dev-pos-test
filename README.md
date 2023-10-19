@@ -1,33 +1,47 @@
-# Getting Started with Create React App
+# Simple POS for Small Business
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Welcome to the Simple POS for Small Business testing site. This web application simulates a Point of Sale (POS) system for testing purposes. It is built using React CRA (Create React App) and leverages the power of React Hooks to provide a smooth and efficient user experience.
 
-In the project directory, you can run:
+**Deployed Site Link:** [Simple POS for Small Business](https://ahnyi.github.io/dev-pos-test/)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Product Selection
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Easily select products from a predefined inventory.
+- Visual representation of selected products for an intuitive user experience.
 
-### `npm run build`
+### Bill Display
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Dynamically calculates the bill based on selected products.
+- Detailed breakdown of items with individual costs.
+- Clear overview of the total amount due, including taxes and discounts.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Receipt Printing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Option to print the generated bill as a well-structured receipt.
+- Essential transaction details included for reference and record-keeping.
 
-### Deployment
+## Purpose
 
-This section has moved here: [https://blog.logrocket.com/deploying-react-apps-github-pages/](https://blog.logrocket.com/deploying-react-apps-github-pages/)
+This testing site is designed to evaluate the core functionalities of the POS system, focusing on product selection, bill display, and successful receipt generation. It serves as a testing ground to ensure the system's robustness and reliability.
 
-### `npm run build` fails to minify
+## Technologies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- React CRA (Create React App)
+- React Hooks
+
+## Getting Started
+
+1. Visit the [deployed site](https://ahnyi.github.io/dev-pos-test/) to start testing the POS system.
+2. Select products, view the bill, and explore the receipt printing feature.
+
+## Support and Feedback
+
+If you encounter any issues or have feedback, please [submit an issue](https://github.com/ahnyi/dev-pos-test/issues). Your input is valuable in improving the POS system.
+
+---
+
+**Disclaimer:** This site is for testing purposes only and does not handle real transactions or sensitive data. It is a simulated POS system created as a demonstration and testing tool.
