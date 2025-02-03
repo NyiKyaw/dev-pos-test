@@ -4,7 +4,7 @@
 
 Welcome to the Simple POS for Small Business testing site. This web application simulates a Point of Sale (POS) system for testing purposes. It is built using React CRA (Create React App) and leverages the power of React Hooks to provide a smooth and efficient user experience.
 
-**Deployed Site Link:** [Simple POS for Small Business](https://nyikyaw.github.io/dev-pos-test/)
+**Deployed Site Link:** [Simple POS for Small Business](https://nyikyawaye.github.io/dev-pos-test/)
 
 ## Features
 
@@ -35,12 +35,12 @@ This testing site is designed to evaluate the core functionalities of the POS sy
 
 ## Getting Started
 
-1. Visit the [deployed site](https://nyikyaw.github.io/dev-pos-test/) to start testing the POS system.
+1. Visit the [deployed site](https://nyikyawaye.github.io/dev-pos-test/) to start testing the POS system.
 2. Select products, view the bill, and explore the receipt printing feature.
 
 ## Support and Feedback
 
-If you encounter any issues or have feedback, please [submit an issue](https://github.com/nyikyaw/dev-pos-test/issues). Your input is valuable in improving the POS system.
+If you encounter any issues or have feedback, please [submit an issue](https://github.com/nyikyawaye/dev-pos-test/issues). Your input is valuable in improving the POS system.
 
 ---
 
